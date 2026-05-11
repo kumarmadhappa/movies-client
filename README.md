@@ -1,3 +1,5 @@
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,3 +71,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # movies-client
+
+
+
+
+# Code - https://github.com/GavinLonDigital/movie-gold-v1
+# Youtube video - https://www.youtube.com/watch?v=5PdEmeopJVQ&list=PLJLf67YAhhod0OMooE_QOYcU_D63d26_p

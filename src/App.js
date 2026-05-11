@@ -1,5 +1,5 @@
 import './App.css';
-import Layout from './components/layout';
+import Layout from './components/Layout';
 import Home from './components/home/Home';
 import api from './api/axiosconfig';
 import {useState, useEffect} from 'react';
